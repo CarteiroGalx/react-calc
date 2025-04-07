@@ -1,10 +1,11 @@
 import { Container, Content } from "./styles";
+import Button from "./components/Button";
 
 const App = () => {
   return (
     <Container>
       <Content>
-        dasd
+        <Button />
       </Content>
     </Container>
   );

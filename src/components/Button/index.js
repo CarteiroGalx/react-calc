@@ -1,8 +1,11 @@
+import { StyledButton } from './styles.js';
+
 const Button = () => {
     return (
-      <div className="App">
-      </div>
+      <StyledButton>
+        dasdasdasdasd
+      </StyledButton>
     );
   }
   
-  export default Button;
+export default Button;
